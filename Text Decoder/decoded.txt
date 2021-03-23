@@ -1,0 +1,12 @@
+KEY: 12
+
+TEXT: Harnessing the electrical and mechanical properties of the carbon nanotube, a team of researchers has crafted a working radio from a single fiber of that material.
+
+
+
+Fixed between two electrodes, the vibrating tube successfully performed the four critical roles of a radio--antenna, tunable filter, amplifier and demodulator--to tune in a radio signal generated in the room and play it back through an attached speaker.
+
+
+
+Functional across a bandwidth widely used for commercial radio, the tiny device could have applications far beyond novelty, from radio-controlled devices that could flow in the human bloodstream to highly efficient, miniscule, cell phone devices. 
+
